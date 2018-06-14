@@ -2,7 +2,7 @@
   "channels" : [
     {
       "title" : "수미네반찬",
-      "fbNativeInterval" : "1",
+      "fbNativeInterval" : "2",
       "fbNativeReload" : "true",
       "notiOn" : "false",
       "notiTitle" : "공지",
